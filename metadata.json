@@ -1,0 +1,8 @@
+{
+  "name": " Deluxe Consultant",
+  "description": "Luxury brokerage, off-market real estate mandates, and strategic capital advisory led by Principal Broker Munir Pathan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
